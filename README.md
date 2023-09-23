@@ -16,5 +16,5 @@ This subject is SAT/UNSAT
 
 ---
 
-[!Note] 
-Text for Note
+> [!Note] 
+? Text for Note
