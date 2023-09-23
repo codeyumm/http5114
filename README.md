@@ -9,12 +9,9 @@ In this repo I am documenting everytthing I am learning in subject of Workshops 
 - Module 2 - GitHub
 - Module 3 - Markdown
 
----
-**NOTE**
-
+> [!Note]
 This subject is SAT/UNSAT
 
----
 
-> [!Note] 
-? Text for Note
+
+
