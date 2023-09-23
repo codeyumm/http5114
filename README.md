@@ -17,7 +17,8 @@ Submit all the assignments
 
 > [!Important]
 Email is the best way to contact Adam.
-Important links
+> Important links
+
 > ![tasks](https://tasks.brickmmo.com/)
 
 ## Sample Code
