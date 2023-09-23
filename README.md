@@ -12,6 +12,21 @@ In this repo I am documenting everytthing I am learning in subject of Workshops 
 > [!Note]
 This subject is SAT/UNSAT
 
+> [!Warning]
+Submit all the assignments
+
+> [!Information]
+Email is the best way to contact Adam.
+Important links
+> ![tasks](https://tasks.brickmmo.com/)
+
+## Sample Code
+
+`var sayHello = () => (console.log("Hello")`
+
+![meme-pic](https://tasks.brickmmo.com/images/meme-hate-love.jpeg)
+
+
 
 
 
