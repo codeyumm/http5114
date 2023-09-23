@@ -15,7 +15,7 @@ This subject is SAT/UNSAT
 > [!Warning]
 Submit all the assignments
 
-> [!Information]
+> [!Important]
 Email is the best way to contact Adam.
 Important links
 > ![tasks](https://tasks.brickmmo.com/)
